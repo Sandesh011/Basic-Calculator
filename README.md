@@ -49,7 +49,9 @@ ENTER A NUMBER: 10
 Select your operator (+,-,*,/,%,**,sqrt and q for quit): +  
 ENTER SECOND NUMBER: 5  
 Result: 15.0  
+
 📌 Future Improvements
+
 Add a GUI using Tkinter or PyQt
 
 Support for scientific functions (trig, log, etc.)
