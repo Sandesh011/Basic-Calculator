@@ -3,24 +3,37 @@ This is a basic calculator program written in Python. It allows users to perform
 
 🔧 Features
 Addition (+)
+
 Subtraction (-)
+
 Multiplication (*)
+
 Division (/)
+
 Modulus (%)
+
 Power (**)
+
 Square Root (sqrt)
+
 Input validation
+
 Option to quit anytime by typing q
 
 ▶️ How to Run the Program
 Make sure you have Python 3 installed.
+
 Download or clone this repository:
 git clone https://github.com/Sandesh011/Basic-Calculator.git
+
 Open a terminal or command prompt.
+
 Navigate to the project directory:
 cd Basic-Calculator
+
 Run the program:
 python main.py
+
 Replace main.py with your actual Python filename if different.
 
 💡 Sample Usage
@@ -35,14 +48,15 @@ ENTER A NUMBER: 10
 Select your operator (+,-,*,/,%,**,sqrt and q for quit): +  
 ENTER SECOND NUMBER: 5  
 Result: 15.0  
-
 📌 Future Improvements
 Add a GUI using Tkinter or PyQt
+
 Support for scientific functions (trig, log, etc.)
+
 Input history and undo option
 
 👤 Author
-Sandesh Pandit
+Sandesh
 GitHub: @Sandesh011
 
 📜 License
