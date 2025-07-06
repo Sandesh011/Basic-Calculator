@@ -1,4 +1,5 @@
 🧮 Basic Calculator
+
 This is a basic calculator program written in Python. It allows users to perform common arithmetic operations directly in the terminal. This project is great for beginners learning how to work with user input, conditionals, loops, and functions in Python.
 
 🔧 Features
