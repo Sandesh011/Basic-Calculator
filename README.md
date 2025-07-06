@@ -59,8 +59,11 @@ Support for scientific functions (trig, log, etc.)
 Input history and undo option
 
 👤 Author
+
 Sandesh
+
 GitHub: @Sandesh011
 
 📜 License
+
 This project is licensed under the MIT License.
